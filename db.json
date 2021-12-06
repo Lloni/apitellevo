@@ -77,7 +77,7 @@
       "title": "Quillota",
       "body": "2000",
       "dia": "01/11/2021",
-      "hora:"20:50"
+      "hora":"20:50"
     },
     {
       "id": 2,
@@ -86,7 +86,7 @@
       "userId": 10,
       "title": "Av Valparaiso 1922",
       "dia": "01/11/2021",
-      "hora:"20:50"
+      "hora":"20:50"
     },
     {
       "id": 3,
@@ -95,7 +95,7 @@
       "userId": 3,
       "title": "Av Prat #204",
       "dia": "01/11/2021",
-      "hora:"20:50"
+      "hora":"20:50"
     }
   ],
   "clients": [
